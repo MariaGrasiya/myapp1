@@ -1,0 +1,8 @@
+let _rrr = document.getElementById('ruuu');
+let dom11 = <div>
+<center><h1>The Good Samaritan</h1></center>
+<font size="14"><p> On one ocassion an expert in the law stood up to test Jesus."Teacher", he asked," What must I do to enherit eternal life?"." What is written in the law?", he replied," How do you read it?", he answered: " Love the Lord your God with all your heart and with yall your soul  and with all your strenght and with all your mind; and,"Love your neighbor as yourself." " You have answered correctly", Jesus replied: " Do this af you will live." But he wanted to justify himself, so he asked Jesus," "And who is my neighbor?"  In reply Jesus said: " a man was going down from Jerusalem to jericho, when he fell into the hands of robbers. They stripped him of his clothes, beat him and went away, leaving him half dead. A priest happened to be going down the same road, and when he saw  the same road, and when he saw the man, he passed by on the other side. So too, a levite, when he came to the place and saw him, passed ny on the other side. But a Samritan, as he traveled, came where the man was; and when he saw him, he took pity on him. He went to him and bandaged his wounds, pouring an oil and wine. Then he put the man on his donkey, took him on an inn and took care of him. The next day he took out two silver coins and gave them to the innkeeper. "Look after him," he said, " and when I return, I will reimburse you or any extra expense you may have," " Which of this three do you think was a neighbor to the man who fell into the hands of the robbers?" The expert in the law replied, " The one who had mercy on him."
+Jesus told him," Go and do likewise. </p>
+</font>
+</div>
+ReactDOM.render(dom11,_rrr);
